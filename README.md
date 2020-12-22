@@ -3,6 +3,7 @@ Video Game Recommender from Steam website data
 
 ### Similar to movies, there are so many video game choices and so little time.    How does a player properly choose which game to next invest limited time and money?
 
+Please start in the Reports folder.
 
 This second capstone project through Springboard takes player reviews from the video game hositing company Steam and makes recommendations.    Files are acquired from steampowered.com utilizing the steamreviews library on pypi.org.    Further game information was pulled from steamspy.com, a website dedicated to tracking video game sales.
 
