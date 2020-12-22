@@ -1,4 +1,4 @@
-# SteamGameRecommender
+# Steam Game Recommender
 Video Game Recommender from Steam website data
 
 
