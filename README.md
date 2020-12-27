@@ -5,7 +5,7 @@ Video Game Recommender from Steam website data
 
 Please start in the Reports folder.
 
-This second capstone project through Springboard takes player reviews from the video game hositing company Steam and makes recommendations.    Files are acquired from steampowered.com utilizing the steamreviews library on pypi.org.    Further game information was pulled from steamspy.com, a website dedicated to tracking video game sales.
+This second capstone project through Springboard takes player reviews from the video game hosting company Steam and makes recommendations.    Files are acquired from steampowered.com utilizing the steamreviews library on pypi.org.    Further game information was pulled from steamspy.com, a website dedicated to tracking video game sales.
 
 748 game IDs
 
